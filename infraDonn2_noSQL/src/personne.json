@@ -1,0 +1,15 @@
+{
+    "personne": [
+      {
+        "name": "Theo",
+        "age": 21,
+        "hobby": "infraDonnn"
+      },
+      {
+        "name": "jean",
+        "age": 88,
+        "hobby": "prog"
+      }
+    ]
+  }
+  

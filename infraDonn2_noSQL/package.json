@@ -11,6 +11,8 @@
     "type-check": "vue-tsc --build --force"
   },
   "dependencies": {
+    "events": "^3.3.0",
+    "pouchdb": "^9.0.0",
     "vue": "^3.4.29",
     "vue-router": "^4.3.3"
   },
